@@ -2,7 +2,7 @@
 
 **Бесплатные VPN-подписки, которые обновляются сами каждые 3 часа**
 
-[Сайт с грибным дизайном](https://hiztin.github.io/VLESS-PO-GRIBI-SITE/)
+[Сайт](https://hiztin.github.io/VLESS-PO-GRIBI-SITE/)
 
 ## 🍄‍🟫 Ссылка на основной репозиторий!
 # https://github.com/hiztin/VLESS-PO-GRIBI
