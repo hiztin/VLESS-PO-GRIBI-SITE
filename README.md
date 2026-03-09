@@ -1,8 +1,12 @@
+<div align="center">
+  
 # 🍄 VLESS ПО ГРИБЫ
 
 **Бесплатные VPN-подписки, которые обновляются сами каждые 3 часа**
 
 [Сайт](https://hiztin.github.io/VLESS-PO-GRIBI-SITE/)
+
+</div>
 
 ## 🍄‍🟫 Ссылка на основной репозиторий!
 # https://github.com/hiztin/VLESS-PO-GRIBI
